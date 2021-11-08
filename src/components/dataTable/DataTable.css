@@ -1,0 +1,13 @@
+.headTable {
+    table-layout: auto;
+    width: 100%;
+}
+
+.nameColumn {    
+
+}
+
+.nameColumn th{
+    margin: 10%;
+    text-align: center;
+}

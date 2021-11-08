@@ -1,0 +1,13 @@
+.userInfo {
+    box-shadow: 0 0 40px rgba(95, 86, 3, 0.2) inset;
+    width: 80%;
+    text-align: center;    
+}
+
+.userInfo h3 {
+    margin: 10px 0;
+}
+
+.userInfo div {
+    margin: 5px 0;
+}
